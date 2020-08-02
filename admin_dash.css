@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+
+}
+
+.total{
+  border: 2px solid black;
+  background-color:yellow;
+}
+
+th{
+  border: 2px solid black;
+  background: blue;
+  color: white;
+}

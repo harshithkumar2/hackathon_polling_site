@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+background-color: #7270a5;
+}
+
+h1{
+  text-align: center;
+  box-shadow: 5px 5px 10px #2c2c3d,-5px -5px 10px #2c2c3d;
+  text-shadow:  5px 5px 10px #2c2c3d,-5px -5px 10px black;
+  border-radius: 5px;
+}
+
+.content{
+  position: relative;
+  top:100px;
+  font-weight: bold;
+  font-size: 22px;
+  box-shadow: 5px 5px 10px #2c2c3d,-5px -5px 10px #2c2c3d;
+  border-radius: 5px;
+}

@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+background-color: #D4CFCF;
+}
+
+
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  text-shadow: 2px 2px 3px black;
+  box-shadow: 3px 5px 5px black, -3px -5px 5px black;
+}
+label{
+  font-weight: bold;
+}
+
+.buttons button{
+  margin-left: 22%;
+}
